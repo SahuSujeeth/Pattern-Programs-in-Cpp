@@ -52,6 +52,7 @@ These problems help to build strong fundamentals in **loops, nested loops, and l
 ---
 
 ---
+I need to change to some of these in this.... because of some the input is not working, That's why i have to change the code some of the only...
 
 ## 🙏 Acknowledgements
 
